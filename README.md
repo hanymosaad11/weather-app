@@ -28,4 +28,4 @@ A simple weather application built with **React** and **Material UI** to display
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](./screenshots/Screenshot%202025-08-12%20142152.png)
+![Weather App Screenshot](public/Screenshots/Screenshot_2025-08-12_142152.png)
